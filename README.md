@@ -1,6 +1,6 @@
 # Sale
 
-### Plnatilla para ventas heco con agulñar y prime NG
+### Plantilla para ventas hecho con Agular15 y prime NG
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
 
